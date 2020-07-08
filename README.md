@@ -47,7 +47,7 @@ Actions > Cloud189Checkin > build
 若有需求，可以在[.github/workflows/run.yml]中自行修改
 
 ## 可能遇到的问题
-- 1. 验证码错误  
+-1。验证码错误。  
 首先考虑是不是密码错误  
 其次查看是否已经关闭设备锁  
 - 2. 暂无
